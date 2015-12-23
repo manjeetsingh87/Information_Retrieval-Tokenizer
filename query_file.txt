@@ -1,0 +1,6 @@
+getPostings -
+getPostings "i "the
+termAtATimeQueryAnd "i "the -
+termAtATimeQueryOr "i "the
+docAtATimeQueryAnd "i "the -
+docAtATimeQueryOr "i "the
